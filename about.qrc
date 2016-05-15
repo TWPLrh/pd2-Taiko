@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/key">
+        <file>key_J.png</file>
+        <file>key_L.png</file>
+        <file>about.jpg</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/opengui">
+        <file>banner.png</file>
+        <file>blue.png</file>
+        <file>game.png</file>
+        <file>red.png</file>
+        <file>ten.png</file>
+        <file>game01.mp3</file>
+        <file>tray.png</file>
+        <file>blue_2.png</file>
+        <file>red_2.png</file>
+        <file>num_1.png</file>
+        <file>num_2.png</file>
+        <file>num_3.png</file>
+        <file>start.png</file>
+        <file>score.png</file>
+        <file>time.png</file>
+        <file>mtaikoflower.png</file>
+        <file>不可.png</file>
+        <file>良.png</file>
+    </qresource>
+</RCC>
